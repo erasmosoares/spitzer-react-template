@@ -2,7 +2,7 @@
 # React Template
 Javascript template using responsive layout, React.js and Bulma CSS framework.
 
-To run this project just browser the folder and npm start
+To run this project just use npm start in the project folder
 
 ![alt text](https://docs.google.com/uc?id=0B-mSSpoE3E-SYzVOWk1WQWxmNnc)
 
