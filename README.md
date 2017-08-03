@@ -1,8 +1,12 @@
+
 # spitzer-react-template
 Javascript template using responsive layout, React.js and Bulma CSS framework.
 
 For more information please access the React page.
 
+![alt text](https://drive.google.com/file/d/0B-mSSpoE3E-SYzVOWk1WQWxmNnc/view?amp;usp=embed_googleplus)
+
+Usefull commands:
 
 Create react project.
 npm -install -g create-react-app
