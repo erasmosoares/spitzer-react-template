@@ -1,0 +1,42 @@
+@import '../../mq.sass'
+
+.hero
+  background: url(https://thecybersafetylady.com.au/wp-content/uploads/2013/11/Screen-Shot-2013-11-24-at-7.38.23-pm.png)
+  background-size: cover
+
+  .title
+    +mobile
+      font-weight: bold
+      color: #d8d8d8
+    +tablet
+      font-size: 2.5rem
+      color: #d8d8d8
+    +desktop
+      font-size: 4rem
+      margin-top: 2rem
+      color: #d8d8d8
+
+  .sub
+    +mobile
+      color: #d8d8d8
+    +tablet
+      font-size: 1.5rem
+      color: #d8d8d8
+    +desktop
+      font-size: 1rem
+      margin-top: 5rem
+      color: #d8d8d8
+
+h2
+  margin: 1.5rem 0 2rem 0 !important
+
+.fa-cog
+  font-size: 40px
+
+#learn
+  +desktop
+    margin-bottom: 2rem
+
+.pd
+  +tablet
+    padding: 2em 0

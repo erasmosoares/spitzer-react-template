@@ -1,0 +1,42 @@
+.hero {
+  background: url(https://thecybersafetylady.com.au/wp-content/uploads/2013/11/Screen-Shot-2013-11-24-at-7.38.23-pm.png);
+  background-size: cover; }
+  @media screen and (max-width: 768px) {
+    .hero .title {
+      font-weight: bold;
+      color: #d8d8d8; } }
+  @media screen and (min-width: 769px), print {
+    .hero .title {
+      font-size: 2.5rem;
+      color: #d8d8d8; } }
+  @media screen and (min-width: 1000px) {
+    .hero .title {
+      font-size: 4rem;
+      margin-top: 2rem;
+      color: #d8d8d8; } }
+  @media screen and (max-width: 768px) {
+    .hero .sub {
+      color: #d8d8d8; } }
+  @media screen and (min-width: 769px), print {
+    .hero .sub {
+      font-size: 1.5rem;
+      color: #d8d8d8; } }
+  @media screen and (min-width: 1000px) {
+    .hero .sub {
+      font-size: 1rem;
+      margin-top: 5rem;
+      color: #d8d8d8; } }
+
+h2 {
+  margin: 1.5rem 0 2rem 0 !important; }
+
+.fa-cog {
+  font-size: 40px; }
+
+@media screen and (min-width: 1000px) {
+  #learn {
+    margin-bottom: 2rem; } }
+
+@media screen and (min-width: 769px), print {
+  .pd {
+    padding: 2em 0; } }
