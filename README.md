@@ -1,5 +1,8 @@
 
 # React Template
+
+***This project is no longer maintained***
+
 Javascript template using responsive layout, React.js and Bulma CSS framework.
 
 To run this project just use npm start in the project folder
